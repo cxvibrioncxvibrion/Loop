@@ -4,7 +4,7 @@ on:
   workflow_dispatch: 
   push:
     branches:
-      - develop
+      - 1.0.0-beta.14-fork
     paths:
       - Loop/**
 
